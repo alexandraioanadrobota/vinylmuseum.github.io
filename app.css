@@ -20,13 +20,14 @@ h2
 
 @media (max-width:1200px)
 
-#headinggroup h2
+{#headinggroup h2
 {
 	font-size:2rem;
 }
 body
 {
   padding:10px;
+}
 }
 nav
 {
@@ -37,5 +38,6 @@ background:#656d4a;
 {
 	margin: 10px;
 }
+	
 
 address
