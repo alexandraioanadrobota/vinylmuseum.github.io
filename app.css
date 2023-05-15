@@ -23,8 +23,6 @@ h2
 }
 
 
-@media (max-width:1200px)
-
 #headinggroup h2
 {
 	font-size:2rem;
@@ -47,6 +45,10 @@ background:#656d4a;
 {
 	margin: 10px;
 }
+.col-lg-6
+{
+	padding: 10px;
+}
 	
 
-address
+
