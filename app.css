@@ -31,6 +31,7 @@ body
 {
   padding:10px;
 }
+
 h2
 {
   padding:10px;
@@ -48,6 +49,10 @@ background:#656d4a;
 .col-lg-6
 {
 	padding: 10px;
+}
+.img-fluid
+{
+	padding: 20px;
 }
 	
 
