@@ -58,7 +58,7 @@ background:#656d4a;
 }
 @media (max-width: 768px) 
 {
-  .container {
+  .container-fluid {
     flex-direction: row;
   }
   
