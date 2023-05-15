@@ -58,11 +58,10 @@ background:#656d4a;
 }
 @media (max-width: 768px) 
 {
-  .container-fluid {
-    flex-direction: row;
-  }
+
   
-  .col-lg-6{
+  .col-lg-6
+	{
     order: 2;
   }
   
