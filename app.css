@@ -17,6 +17,23 @@ h2
 	color:white;
 	font-family: cardo;
 }
+#headinggroup h2
+{
+	font-size:2rem;
+}
+body
+{
+  padding:100px;
+}
+nav
+{
+background:#656d4a;
+
+}
+.container-fliud
+{
+	margin: 20px;
+}
 
 @media (max-width:1200px)
 
