@@ -56,7 +56,7 @@ background:#656d4a;
 {
 	padding: 20px;
 }
-@media (min-width: 768px) 
+@media (max-width: 768px) 
 {
   .container {
     flex-direction: row;
