@@ -8,6 +8,11 @@ body
 	color:white;
 	font-size: 1.4rem;
 }
+#icon
+    {
+	 padding: 7 px;   
+}
+
 #mainNavbar 
 {
 	font-size: 1.4rem;
